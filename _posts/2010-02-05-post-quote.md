@@ -7,6 +7,6 @@ tags:
   - quote
 ---
 
-> Only one thing is impossible for God: To find any sense in any copyright law on the planet.
+> Happiness can be found even in the darkest of times, if one only remembers to turn on the light." 
   
-> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
+> <cite><a href="https://www.goodreads.com/quotes/1266091-happiness-can-be-found-even-in-the-darkest-of-times">Albus Dumbledoren</a></cite>
