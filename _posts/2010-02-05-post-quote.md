@@ -1,12 +1,11 @@
 ---
-title: "Post: Quote"
+title: "Article 3"
+date: 2022-05-18T15:34:30-04:00
 categories:
-  - Blog
+  - blog
 tags:
-  - Post Formats
-  - quote
+  - Jekyll
+  - update
 ---
 
-> Happiness can be found even in the darkest of times, if one only remembers to turn on the light." 
-  
-> <cite><a href="https://www.goodreads.com/quotes/1266091-happiness-can-be-found-even-in-the-darkest-of-times">Albus Dumbledoren</a></cite>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eu neque at erat egestas dictum scelerisque vel erat. In hac habitasse platea dictumst. Integer condimentum, orci quis laoreet semper, erat risus euismod enim, eget mattis diam eros quis sem. Nam rhoncus pretium nisi. Maecenas varius, turpis sed dapibus euismod, turpis tellus facilisis nisl, sit amet semper libero sapien quis justo. Sed varius odio id dolor volutpat, sit amet rutrum justo viverra. Pellentesque nunc leo, tempor quis metus quis, semper imperdiet sem. Fusce tempor luctus sem, id mollis purus pellentesque vitae. Suspendisse interdum consequat tellus sit amet tempor. Quisque elementum quam neque, non tempor urna tincidunt quis. Aliquam laoreet hendrerit metus, quis eleifend turpis egestas at.
