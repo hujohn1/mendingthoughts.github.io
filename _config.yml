@@ -58,9 +58,9 @@ plugins:
 author:
   name   : "Mending Thoughts"
   avatar : "/assets/images/logo.png"
-  bio    : "Since 2020."
+  bio    : "Since Feb 2023."
   links:
-    - label: "Website"
+    - label: "Email"
       icon: "fas fa-fw fa-link"
       url: "mailto:info@mendingthoughts.ca"
     - label: "Twitter"
